@@ -1,25 +1,25 @@
 ## DATABASE PROJECT using MySQL
 # Agriculture – Farm Machinery and Equipment Management
 This area focuses on managing;
-Tractors, ploughs, harvesters, basic farm tools among others.
-Equipment usage schedules
-Maintenance records
-Fuel consumption
-Operator assignments
+- Tractors, ploughs, harvesters, basic farm tools among others.
+- Equipment usage schedules
+- Maintenance records
+- Fuel consumption
+- Operator assignments
 Chosen System: Farm Machinery and Equipment Management Database System in the agriculture field
 Mission of the project
 To design and implement a reliable, efficient, and scalable database system that facilitates effective management, monitoring, and analysis of agricultural machinery and farm equipment to improve productivity and decision-making.
 # General Objective
 To develop a centralized database system for managing agricultural machinery and farm equipment.
 Specific Objectives
-To store and organize detailed information about farm machinery and equipment 
-To track equipment availability, allocation, and operational status 
-To manage maintenance schedules and repair records 
-To control user access and system security 
-To improve efficiency in data retrieval and management 
-To generate reports for informed decision-making 
-To monitor costs associated with equipment usage and maintenance 
-To ensure data integrity and consistency
+- To store and organize detailed information about farm machinery and equipment 
+- To track equipment availability, allocation, and operational status 
+- To manage maintenance schedules and repair records 
+- To control user access and system security 
+- To improve efficiency in data retrieval and management 
+- To generate reports for informed decision-making 
+- To monitor costs associated with equipment usage and maintenance 
+- To ensure data integrity and consistency
 # Reasons:
 Machinery is central to modern agriculture productivity therefore highly relevant in the agricultural field
 The broad scope of machinery combines inventory, maintenance, and usage tracking of farm tools hence highly used.
@@ -35,10 +35,10 @@ Functions of the database system
 Recording fuel consumption
 Generating reports for management
 # User Groups
-Farm managers
-Equipment operators
-Maintenance technicians
-Agricultural officers / supervisors
+- Farm managers
+- Equipment operators
+- Maintenance technicians
+- Agricultural officers / supervisors
 System Benefits after implementation
 Systematic reduced maintenance costs 
 Increased equipment lifespan
@@ -57,9 +57,9 @@ System Benefits after implementation
 Training costs
 Maintenance and updates
 Expected hardships
-Resistance to change from staff
-Time spent learning the system
-Temporary productivity drop during transition
+- Resistance to change from staff
+- Time spent learning the system
+- Temporary productivity drop during transition
 # Benefits outweigh costs, especially long-term (cost savings + efficiency gains)
 User Issues
 Skill Levels:
@@ -75,30 +75,30 @@ Mitigation to the user issues
 Risk Assessment
 
 # Technical Risks
-System failure or bugs
-Data loss or corruption
-Poor system design
+- System failure or bugs
+- Data loss or corruption
+- Poor system design
 Mitigation
-Regular backups
-Testing before deployment
+- Regular backups
+- Testing before deployment
 
 
 
 # Organizational Risks
-Resistance to adoption
-Lack of management support
+- Resistance to adoption
+- Lack of management support
 
 Mitigation
-Stakeholder involvement
-Awareness and training
+- Stakeholder involvement
+- Awareness and training
 
 Operational Risks
-Incorrect data entry
-Misuse of system
+- Incorrect data entry
+- Misuse of system
 
 Mitigation
-Validation rules
-User access control
+- Validation rules
+- User access control
 Limitations of the System
 May not support real-time tracking without IoT integration
 Depends on user input accuracy
