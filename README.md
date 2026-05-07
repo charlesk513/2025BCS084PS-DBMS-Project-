@@ -1,5 +1,5 @@
 ## DATABASE PROJECT using MySQL
-- Presentation video on google drive. [Click to see the video](https://drive.google.com/file/d/1enLJMF2S1jLLfUblDqirbUilfoCUWlR_/view?usp=drive_link)
+- Presentation video on google drive. [Click to see the video](https://drive.google.com/file/d/1psvTUooAogrMgrdcJad0X54RSUwXid-g/view?usp=drivesdk)
 # Agriculture – Farm Machinery and Equipment Management
 This area focuses on managing;
 - Tractors, ploughs, harvesters, basic farm tools among others.
